@@ -1,2 +1,2 @@
-# templates
-Templates and workflows for shell, python, django, ...
+# shell-templates
+Some useful functions for (bash) shell
